@@ -2,8 +2,8 @@ import tweepy
 from textblob import TextBlob
 
 
-consumer_key= 'MOCDWsnhTg3grUgTFBdS3Zn7V'
-consumer_secret= 'KUO9JQxbJn0ahWUYrpT9YWihAw1CToTbP9reBkvMCOUAKAL1xX'
+consumer_key= 'KEY HERE'
+consumer_secret= 'CODE HERE'
 
 access_token='1294346384-llUpXqjfv2hqXDU5H9Rot3j4DTyNjgOfQwhaEmZ'
 access_token_secret='6GbPTnLohxvWAGmayjK6rzGQ1WzgUBQ8A3c9RtAufG5Wi'
